@@ -3,3 +3,28 @@
 #+begin_quote
 Don't sleep on Wake.
 #+end_quote
+
+** Description
+
+Declaratively build web services.
+
+** Inspiration
+
+- [[https://www.youtube.com/watch?v%3DByNs9TG30E8][Om Next]]
+- [[http://facebook.github.io/graphql][GraphQL]]
+- [[https://github.com/solidsnack/GraphpostgresQL][GraphpostgresQL]]
+- [[https://gist.github.com/wincent/598fa75e22bdfa44cf47?][Unofficial Relay FAQ]]
+- [[http://docs.datomic.com/pull.html][Datomic Pull API]]
+- [[https://www.youtube.com/watch?v%3DhOE6nVVr14c][JSON Graph and Falcor]]
+- [[https://github.com/cognitect/transit-format][Transit Format]]
+
+** Ideas
+
+- Use Datomic database
+- Manage identity with JWTs
+- Filter database with rules based on JWT scopes
+- Use transit on the wire
+- Flatten graphs on the wire
+- Generate database schema from a domain schema
+- Automatically generate migrations from schema changes
+- Validate schema with Prismatic schema library
