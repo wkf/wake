@@ -1,0 +1,5 @@
+* Wake
+
+#+begin_quote
+Don't sleep on Wake.
+#+end_quote
